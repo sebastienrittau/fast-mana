@@ -4,8 +4,15 @@
 // Variables
 @import 'variables';
 
-// Bootstrap
+// Modules
 @import '~bootstrap/scss/bootstrap';
+@import '~@fortawesome/fontawesome-free/scss/fontawesome';
+@import '~@fortawesome/fontawesome-free/scss/brands';
+@import '~@fortawesome/fontawesome-free/scss/regular';
+@import '~@fortawesome/fontawesome-free/scss/solid';
+@import '~datatables.net-bs4/css/dataTables.bootstrap4.min.css';
 
 // App styles
+@import './fastmana.scss';
 @import './navbar.scss';
+@import './footer.scss';

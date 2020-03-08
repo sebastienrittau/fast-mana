@@ -14,7 +14,7 @@
                         </div>
                     @endif
 
-                    You are logged in!
+                    Show publicly shared decks here
                 </div>
             </div>
         </div>
